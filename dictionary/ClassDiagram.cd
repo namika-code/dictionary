@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dictionary.contents">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAhASASAAEAQgAACRAABCQQJIgAAAAAAIAwEABAA=</HashCode>
+      <FileName>contents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dictionary.index">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAAAAACAAABBAKACAQAEiAAB4AAAAIAAAAQAAAAA=</HashCode>
+      <FileName>index.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dictionary.top">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAACAQAAAAAACAAAACQAKAAAACAAAAAAACAAA=</HashCode>
+      <FileName>top.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="dictionary.TabInfo">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>contents.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>
